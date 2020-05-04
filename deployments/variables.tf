@@ -1,0 +1,14 @@
+variable "identifier" {}
+variable "cluster_identifier" {}
+variable "username" {}
+variable "password" {}
+variable "cluster_endpoint" {}
+variable client_certificate {}
+variable client_key {}
+variable cluster_ca_certificate {}
+variable docker_image {}
+variable docker_image_tag {}
+variable cpu {}
+variable ram {}
+variable jenkins_admin_password {}
+variable plugins_file {}
